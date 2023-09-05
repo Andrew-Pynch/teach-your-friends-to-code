@@ -1,7 +1,5 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
 root: intro
 chapters:
-- file: 0.0-why-are-we-doing-this
+    - file: 0.0-why-are-we-doing-this
+    - file: 0.1-writing-your-first-program
